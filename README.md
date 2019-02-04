@@ -2,7 +2,7 @@
 
 This repository aims to solve the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment with the [MADDPG](https://arxiv.org/abs/1706.02275) algorithm.
 
-![Trained Agent][image1]
+[Trained Agent][image1]
 
 In this environment, two agents control rackets to bounce a ball over a net. If an agent hits the ball over the net, it receives a reward of +0.1.  If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01.  Thus, the goal of each agent is to keep the ball in play.
 
@@ -39,8 +39,8 @@ Follow the instructions in `Tennis.ipynb` to get started with training your own 
 
 ### References
 
-    Udacity MADDPG Lab Implementation
+   Udacity MADDPG Lab Implementation
     
-    [Udacity Deep RL](https://github.com/udacity/deep-reinforcement-learning/tree/master/p3_collab-compet)
+   [Udacity Deep RL](https://github.com/udacity/deep-reinforcement-learning/tree/master/p3_collab-compet)
     
-    [yk287 MADDPG Implementation](https://github.com/yk287/MADDPG-Tennis-UnityMLPlatform)
+   [yk287 MADDPG Implementation](https://github.com/yk287/MADDPG-Tennis-UnityMLPlatform)
