@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a164b9d-e3d3-4c86-92f5-a43ab8526d62" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Tennis-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Tennis-checkpoint.ipynb" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/Soccer.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis.ipynb" afterPath="$PROJECT_DIR$/Tennis.ipynb" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/Assembly-CSharp.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/Google.Protobuf.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/Grpc.Core.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/Mono.Posix.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/Mono.Security.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/System.Configuration.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/System.Core.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/System.Interactive.Async.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/System.Security.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/System.Xml.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/System.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.AIModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.ARModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.AccessibilityModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.AnimationModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.AssetBundleModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.AudioModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.ClothModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.ClusterInputModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.ClusterRendererModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.CoreModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.CrashReportingModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.DirectorModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.GameCenterModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.GridModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.IMGUIModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.ImageConversionModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.InputModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.JSONSerializeModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.Networking.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.ParticleSystemModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.ParticlesLegacyModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.PerformanceReportingModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.Physics2DModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.PhysicsModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.ScreenCaptureModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.SharedInternalsModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.SpatialTracking.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.SpriteMaskModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.SpriteShapeModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.StandardEvents.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.StyleSheetsModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.TerrainModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.TextRenderingModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.TilemapModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.Timeline.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.UI.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.UIElementsModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.UIModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.UNETModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.UnityConnectModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.UnityWebRequestModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.VRModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.VehiclesModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.VideoModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.WebModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.WindModule.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/UnityEngine.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Managed/mscorlib.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/2.0/machine.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/2.0/settings.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/2.0/web.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/4.0/machine.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/4.0/settings.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/4.0/web.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/4.5/machine.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/4.5/settings.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/4.5/web.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/browscap.ini" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Plugins/grpc_csharp_ext.x64.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Resources/unity default resources" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/Resources/unity_builtin_extra" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/app.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/boot.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/globalgamemanagers" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/globalgamemanagers.assets" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/level0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/resources.assets" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/Tennis_Data/sharedassets0.assets" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Tennis_Windows_x86_64/UnityPlayer.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/unity-environment.log" afterPath="$PROJECT_DIR$/unity-environment.log" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maddpg.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maddpg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2193">
+              <caret line="129" column="44" lean-forward="false" selection-start-line="129" selection-start-column="44" selection-end-line="129" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ddpg.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ddpg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>self.action_size</find>
+      <find>network</find>
+      <find>optimizer</find>
+      <find>EPS</find>
+      <find>self.</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MADDPG/dtennis.py" />
+        <option value="$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/memory.py" />
+        <option value="$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/OUNoise.py" />
+        <option value="$PROJECT_DIR$/model.py" />
+        <option value="$PROJECT_DIR$/PPO.py" />
+        <option value="$PROJECT_DIR$/indModel.py" />
+        <option value="$PROJECT_DIR$/Team.py" />
+        <option value="$PROJECT_DIR$/Tennis.py" />
+        <option value="$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/ddpg.py" />
+        <option value="$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/maddpg.py" />
+        <option value="$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/networkforall.py" />
+        <option value="$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/main.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/maddpg.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Unity-Tennis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Unity-Tennis" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Unity-Tennis" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Unity-Tennis" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.madd">
+    <configuration name="Tennis" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\austi\Miniconda3\envs\drlnd2\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Unity-Tennis" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tennis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="madd" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\austi\Miniconda3\envs\drlnd2\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Unity-Tennis" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.Tennis" />
+      <item index="1" class="java.lang.String" itemvalue="Python.madd" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a164b9d-e3d3-4c86-92f5-a43ab8526d62" name="Default" comment="" />
+      <created>1548517470326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548517470326</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14172813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34166667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30520833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="40" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MADDPG/run_training.sh" />
+    <entry file="file://$PROJECT_DIR$/MADDPG/main.py" />
+    <entry file="file://$PROJECT_DIR$/MADDPG/run_tensorboard.sh" />
+    <entry file="file://$PROJECT_DIR$/MADDPG/run_training.sh" />
+    <entry file="file://$PROJECT_DIR$/model.py" />
+    <entry file="file://$PROJECT_DIR$/Team.py" />
+    <entry file="file://$PROJECT_DIR$/PPO.py" />
+    <entry file="file://$PROJECT_DIR$/Tennis.py" />
+    <entry file="file://$PROJECT_DIR$/model.py" />
+    <entry file="file://$PROJECT_DIR$/Team.py" />
+    <entry file="file://$PROJECT_DIR$/PPO.py" />
+    <entry file="file://$PROJECT_DIR$/Tennis.py" />
+    <entry file="file://$PROJECT_DIR$/model.py" />
+    <entry file="file://$PROJECT_DIR$/PPO.py" />
+    <entry file="file://$PROJECT_DIR$/Team.py" />
+    <entry file="file://$PROJECT_DIR$/Tennis.py" />
+    <entry file="file://$PROJECT_DIR$/MADDPG/run_training.sh" />
+    <entry file="file://$PROJECT_DIR$/MADDPG/maddpg.py" />
+    <entry file="file://$PROJECT_DIR$/MADDPG/ddpg.py" />
+    <entry file="file://$PROJECT_DIR$/MADDPG/env_wrapper.py" />
+    <entry file="file://$PROJECT_DIR$/MADDPG/buffer.py" />
+    <entry file="file://$PROJECT_DIR$/MADDPG/envs.py" />
+    <entry file="file://$PROJECT_DIR$/MADDPG/utilities.py" />
+    <entry file="file://$PROJECT_DIR$/MADDPG/networkforall.py" />
+    <entry file="file://$PROJECT_DIR$/MADDPG/run_tensorboard.sh" />
+    <entry file="file://$PROJECT_DIR$/MADDPG/main.py" />
+    <entry file="file://$PROJECT_DIR$/MADDPG/dtennis.py" />
+    <entry file="file://$USER_HOME$/Miniconda3/envs/drlnd2/Lib/site-packages/torch/nn/modules/linear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/drlnd2/Lib/site-packages/torch/tensor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="449" column="0" lean-forward="false" selection-start-line="449" selection-start-column="0" selection-end-line="449" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/memory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/progress.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/RawScore.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/drlnd2/Lib/site-packages/unityagents/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="418" column="0" lean-forward="false" selection-start-line="418" selection-start-column="0" selection-end-line="418" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/OUNoise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model.py" />
+    <entry file="file://$PROJECT_DIR$/indModel.py" />
+    <entry file="file://$PROJECT_DIR$/PPO.py" />
+    <entry file="file://$PROJECT_DIR$/Team.py" />
+    <entry file="file://$PROJECT_DIR$/Tennis.py" />
+    <entry file="file://$USER_HOME$/Miniconda3/envs/drlnd2/Lib/site-packages/torch/nn/modules/batchnorm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/drlnd2/Lib/site-packages/torch/nn/functional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="1622" column="0" lean-forward="false" selection-start-line="1622" selection-start-column="0" selection-end-line="1622" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/utilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="118" column="45" lean-forward="false" selection-start-line="118" selection-start-column="45" selection-end-line="118" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/maddpg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/ddpg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MADDPG-Tennis-UnityMLPlatform/networkforall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maddpg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="129" column="44" lean-forward="false" selection-start-line="129" selection-start-column="44" selection-end-line="129" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddpg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
