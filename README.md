@@ -35,7 +35,8 @@ The environment is considered solved, when the average (over 100 episodes) of th
     PyTorch
     Numpy
     Matplotlib
-    Jupyter (Optional, python files are provided if you wish to run from command line)
+    Jupyter
+    Tensorboard X
     
 ### Instructions
 
